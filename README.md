@@ -2,7 +2,7 @@
 
 A small but solid **Node.js + TypeScript REST API** for managing a list of books.
 
-This project is great for your GitHub to showcase **backend skills**:
+My project showcases:
 
 - TypeScript
 - Express REST API
@@ -142,22 +142,3 @@ typescript_books_api/
 └─ tests/
    └─ test.ts         # Basic HTTP tests using Node's http module
 ```
-
----
-
-## 🌟 Why this is a good portfolio project
-
-This repo shows that you can:
-
-- Use **TypeScript** on the backend
-- Design and implement a small **REST API**
-- Handle JSON requests & responses
-- Organize code into routers and modules
-- Write and run simple integration tests
-
-You can extend it later with:
-
-- A real database (PostgreSQL, MongoDB, etc.)
-- Authentication
-- Pagination & filtering
-- Swagger / OpenAPI docs
